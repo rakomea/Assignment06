@@ -9,13 +9,13 @@
     <p>Please leave your message below and we'll get back to you as soon as we can.</p>
     <hr>
 
-    <label for="name"><b>Name</b></label>
+    <label for="name"><b>Name:</b></label>
     <input type="text" name="name" id="name" required>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>Email:</b></label>
     <input type="text" name="email" id="email" required>
 
-    <label for="message"><b>Message</b></label>
+    <label for="message"><b>Message:</b></label>
     <input type="text" name="message" id="message" required>
   
     <div class="clearfix">
