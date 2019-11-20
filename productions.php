@@ -23,7 +23,6 @@
 
 <figure>
 	<img src="images/poster.jpg" alt="OBOC Poster" class="poster col s6">
-	<figcaption>"Hello My Name is OBOC" Fall 2019 Show Poster</figcaption>
 </figure> 
 </div>	
 </div>

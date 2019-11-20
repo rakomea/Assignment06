@@ -8,7 +8,6 @@
 <div class="row">
 <figure>
 	<img src="images/logo.png" alt="OBOC Logo" class="logo col s12">
-	<figcaption>The OBOC Logo</figcaption>
 </figure>
 <main class="col s6">
 	<h2>About OBOC</h2>
